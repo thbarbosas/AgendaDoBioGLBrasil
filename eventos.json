@@ -1,6 +1,6 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-04T11:45:00-03:00",
+  "atualizadoEm": "2026-11-09T07:49:51-03:00",
   "turno": "manhã",
   "agenda": "Atualização automática às 7h49 e às 13h49 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa especializada. Onde o site oficial não foi confirmado, o botão abre uma busca. Eventos com data a confirmar seguem o padrão das edições anteriores. Confirme sempre antes de se programar."
@@ -55,6 +55,31 @@
    "biogl": "cooperativas exportadoras e granjas que buscam pegada de carbono menor",
    "aderencia": "Média",
    "id": "38º-show-rural-coopavel"
+  },
+  {
+   "id": "workshop-oportunidades-do-biometano-goias-2026",
+   "nome": "Workshop Oportunidades do Biometano para a Indústria e o Setor de Transporte",
+   "tipo": "Seminário",
+   "segmentos": [
+    "Industrial"
+   ],
+   "temas": [
+    "Biogás e biometano",
+    "Descarbonização"
+   ],
+   "inicio": "2026-02-11",
+   "fim": "2026-02-11",
+   "cidade": "Goiânia",
+   "uf": "GO",
+   "local": "Casa da Indústria (Fieg), Auditório João Bennio",
+   "preco": "Não informado",
+   "gratuito": false,
+   "link": "https://goias.gov.br/governo/energia/workshop-oportunidades-do-biometano-para-a-industria-e-o-setor-de-transporte/",
+   "organizador": "Secretaria-Geral de Governo de Goiás",
+   "lat": -16.68,
+   "lon": -49.25,
+   "biogl": "indústrias goianas que buscam gás renovável sem depender de rede de biometano",
+   "aderencia": "Alta"
   },
   {
    "nome": "Feicon 2026",
@@ -182,6 +207,79 @@
    "id": "apas-show-2026"
   },
   {
+   "id": "hospitalar-2026",
+   "nome": "Hospitalar 2026",
+   "tipo": "Feira",
+   "segmentos": [
+    "Comercial"
+   ],
+   "temas": [
+    "ESG e certificação"
+   ],
+   "inicio": "2026-05-19",
+   "fim": "2026-05-22",
+   "local": "São Paulo Expo",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://www.hospitalar.com/",
+   "organizador": "Informa Markets",
+   "biogl": "hospitais com metas de sustentabilidade: vapor, lavanderia, cozinha e água quente",
+   "aderencia": "Média",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "lat": -23.55,
+   "lon": -46.63
+  },
+  {
+   "id": "fispal-food-service-2026",
+   "nome": "Fispal Food Service 2026",
+   "tipo": "Feira",
+   "segmentos": [
+    "Comercial"
+   ],
+   "temas": [
+    "ESG e certificação"
+   ],
+   "inicio": "2026-05-26",
+   "fim": "2026-05-29",
+   "local": "Distrito Anhembi",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://www.fispalfoodservice.com.br/",
+   "organizador": "Informa Markets",
+   "biogl": "redes de restaurantes, padarias e franquias que querem cozinha de baixo carbono",
+   "aderencia": "Alta",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "lat": -23.55,
+   "lon": -46.63
+  },
+  {
+   "id": "congresso-nacional-de-esg-2026",
+   "nome": "Congresso Nacional de ESG 2026",
+   "tipo": "Congresso",
+   "segmentos": [
+    "Comercial",
+    "Industrial"
+   ],
+   "temas": [
+    "ESG e certificação"
+   ],
+   "inicio": "2026-06-15",
+   "fim": "2026-06-16",
+   "local": "Wyndham São Paulo Ibirapuera Hotel",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://www.congressodeesg.org.br/",
+   "organizador": "Associação Brasileira de ESG",
+   "biogl": "diretores de sustentabilidade de grandes empresas",
+   "aderencia": "Alta",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "lat": -23.55,
+   "lon": -46.63
+  },
+  {
    "nome": "Hyvolution Brasil 2026",
    "tipo": "Congresso",
    "segmentos": [
@@ -219,10 +317,10 @@
     "Descarbonização"
    ],
    "inicio": "2026-06-23",
-   "fim": "2026-06-24",
+   "fim": "2026-06-25",
    "cidade": "Rio de Janeiro",
    "uf": "RJ",
-   "local": "Rio de Janeiro",
+   "local": "Marina da Glória",
    "preco": "Consulte no site oficial",
    "gratuito": false,
    "link": "https://eixos.com.br/",
@@ -298,10 +396,10 @@
     "Biocombustíveis"
    ],
    "inicio": "2026-08-11",
-   "fim": "2026-08-11",
+   "fim": "2026-08-12",
    "cidade": "São Paulo",
    "uf": "SP",
-   "local": "São Paulo",
+   "local": "São Paulo Expo",
    "preco": "Consulte no site oficial",
    "gratuito": false,
    "link": "https://www.forumdobiogas.com.br/",
@@ -362,6 +460,55 @@
    "biogl": "quem já compra energia renovável e quer descarbonizar também o calor e a cocção",
    "aderencia": "Média",
    "id": "the-smarter-e-south-america-2026-(intersolar)"
+  },
+  {
+   "id": "49ª-expointer",
+   "nome": "49ª Expointer",
+   "tipo": "Feira",
+   "segmentos": [
+    "Agronegócio"
+   ],
+   "temas": [
+    "Descarbonização"
+   ],
+   "inicio": "2026-08-29",
+   "fim": "2026-09-06",
+   "cidade": "Esteio",
+   "uf": "RS",
+   "local": "Parque de Exposições Assis Brasil",
+   "preco": "R$ 22 (pedestres)",
+   "gratuito": false,
+   "link": "https://www.expointer.rs.gov.br/",
+   "organizador": "Governo do RS",
+   "lat": -29.86,
+   "lon": -51.18,
+   "biogl": "leite, aves e suínos: água quente e aquecimento com energia de menor pegada",
+   "aderencia": "Média"
+  },
+  {
+   "nome": "Equipotel 2026",
+   "tipo": "Feira",
+   "segmentos": [
+    "Comercial"
+   ],
+   "temas": [
+    "ESG e certificação",
+    "Descarbonização"
+   ],
+   "inicio": "2026-09-15",
+   "fim": "2026-09-18",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Expo Center Norte",
+   "preco": "Credenciamento gratuito pelo site oficial",
+   "gratuito": true,
+   "link": "https://www.equipotel.com.br/",
+   "organizador": "RX",
+   "lat": -23.55,
+   "lon": -46.63,
+   "biogl": "hotéis, bares e restaurantes que querem cozinha, água quente e lavanderia com gás de baixo carbono certificado",
+   "aderencia": "Alta",
+   "id": "equipotel-2026"
   },
   {
    "nome": "ROG.e 2026 – Rio Oil & Gas Energy",
@@ -468,6 +615,33 @@
    "id": "26ª-conferência-internacional-datagro-sobre-açúcar-e-etanol"
   },
   {
+   "nome": "Fimai 2026 – Feira Internacional de Meio Ambiente Industrial",
+   "tipo": "Feira",
+   "segmentos": [
+    "Industrial"
+   ],
+   "temas": [
+    "ESG e certificação",
+    "Resíduos e economia circular",
+    "Descarbonização"
+   ],
+   "inicio": "2026-11-01",
+   "fim": "2026-11-30",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Expo Center Norte (a confirmar)",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://www.google.com/search?q=FIMAI+2026+feira+meio+ambiente+industrial",
+   "organizador": "Revista Meio Ambiente Industrial",
+   "lat": -23.55,
+   "lon": -46.63,
+   "biogl": "gestores ambientais de indústrias que precisam comprovar redução de emissões",
+   "aderencia": "Alta",
+   "dataAprox": "Data de 2026 não confirmada. Edições anteriores: novembro, no Expo Center Norte",
+   "id": "fimai-2026-–-feira-internacional-de-meio-ambiente-industrial"
+  },
+  {
    "nome": "Congresso Brasileiro Mulheres da Energia 2026",
    "tipo": "Congresso",
    "segmentos": [
@@ -545,33 +719,6 @@
    "id": "greenbuilding-brasil-2026"
   },
   {
-   "nome": "Fimai 2026 – Feira Internacional de Meio Ambiente Industrial",
-   "tipo": "Feira",
-   "segmentos": [
-    "Industrial"
-   ],
-   "temas": [
-    "ESG e certificação",
-    "Resíduos e economia circular",
-    "Descarbonização"
-   ],
-   "inicio": "2026-11-01",
-   "fim": "2026-11-30",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "local": "Expo Center Norte (a confirmar)",
-   "preco": "Consulte no site oficial",
-   "gratuito": false,
-   "link": "https://www.google.com/search?q=FIMAI+2026+feira+meio+ambiente+industrial",
-   "organizador": "Revista Meio Ambiente Industrial",
-   "lat": -23.55,
-   "lon": -46.63,
-   "biogl": "gestores ambientais de indústrias que precisam comprovar redução de emissões",
-   "aderencia": "Alta",
-   "dataAprox": "Data de 2026 não confirmada. Edições anteriores: novembro, no Expo Center Norte",
-   "id": "fimai-2026-–-feira-internacional-de-meio-ambiente-industrial"
-  },
-  {
    "nome": "39º Show Rural Coopavel",
    "tipo": "Feira",
    "segmentos": [
@@ -621,6 +768,32 @@
    "id": "27ª-expodireto-cotrijal"
   },
   {
+   "nome": "9º Fórum Sul Brasileiro de Biogás e Biometano",
+   "tipo": "Fórum",
+   "segmentos": [
+    "Agronegócio",
+    "Industrial"
+   ],
+   "temas": [
+    "Biogás e biometano",
+    "Biocombustíveis"
+   ],
+   "inicio": "2027-04-27",
+   "fim": "2027-04-29",
+   "cidade": "Chapecó",
+   "uf": "SC",
+   "local": "Local a confirmar",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://www.google.com/search?q=F%C3%B3rum+Sul+Brasileiro+de+Biog%C3%A1s+e+Biometano+2027",
+   "organizador": "CIBiogás, Embrapa Suínos e Aves e UCS",
+   "lat": -27.1,
+   "lon": -52.62,
+   "biogl": "público que já entende gás renovável: BioGL como opção pronta para quem não produz biometano",
+   "aderencia": "Alta",
+   "id": "9º-fórum-sul-brasileiro-de-biogás-e-biometano"
+  },
+  {
    "nome": "Feicon 2027",
    "tipo": "Feira",
    "segmentos": [
@@ -644,33 +817,6 @@
    "biogl": "construtoras e incorporadoras que miram certificação verde nos empreendimentos",
    "aderencia": "Média",
    "id": "feicon-2027"
-  },
-  {
-   "nome": "9º Fórum Sul Brasileiro de Biogás e Biometano",
-   "tipo": "Fórum",
-   "segmentos": [
-    "Agronegócio",
-    "Industrial"
-   ],
-   "temas": [
-    "Biogás e biometano",
-    "Biocombustíveis"
-   ],
-   "inicio": "2027-04-01",
-   "fim": "2027-04-30",
-   "cidade": "Chapecó",
-   "uf": "SC",
-   "local": "Sede a confirmar",
-   "preco": "Consulte no site oficial",
-   "gratuito": false,
-   "link": "https://www.google.com/search?q=F%C3%B3rum+Sul+Brasileiro+de+Biog%C3%A1s+e+Biometano+2027",
-   "organizador": "CIBiogás, Embrapa Suínos e Aves e UCS",
-   "lat": -27.1,
-   "lon": -52.62,
-   "biogl": "público que já entende gás renovável: BioGL como opção pronta para quem não produz biometano",
-   "aderencia": "Alta",
-   "dataAprox": "Data e sede de 2027 ainda não divulgadas. O fórum acontece em abril e roda entre PR, SC e RS; SC aparece aqui só como posição provável",
-   "id": "9º-fórum-sul-brasileiro-de-biogás-e-biometano"
   },
   {
    "nome": "Agrishow 2027",
@@ -720,32 +866,6 @@
    "biogl": "empresas do Nordeste que já investem em renováveis e querem descarbonizar o calor",
    "aderencia": "Média",
    "id": "intersolar-summit-brasil-nordeste-2027"
-  },
-  {
-   "nome": "Congresso Nacional de ESG 2027",
-   "tipo": "Congresso",
-   "segmentos": [
-    "Comercial",
-    "Industrial"
-   ],
-   "temas": [
-    "ESG e certificação"
-   ],
-   "inicio": "2027-05-01",
-   "fim": "2027-05-31",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "local": "Amcham São Paulo (a confirmar)",
-   "preco": "Consulte no site oficial",
-   "gratuito": false,
-   "link": "https://www.congressodeesg.org.br/",
-   "organizador": "Associação Brasileira de ESG",
-   "lat": -23.55,
-   "lon": -46.63,
-   "biogl": "diretores de sustentabilidade de grandes empresas",
-   "aderencia": "Alta",
-   "dataAprox": "Data de 2027 ainda não divulgada. Edições anteriores: maio, na Amcham, em São Paulo",
-   "id": "congresso-nacional-de-esg-2027"
   },
   {
    "nome": "Fiema Brasil 2027",
@@ -831,11 +951,11 @@
    "temas": [
     "ESG e certificação"
    ],
-   "inicio": "2027-05-01",
-   "fim": "2027-05-31",
+   "inicio": "2027-05-18",
+   "fim": "2027-05-21",
    "cidade": "São Paulo",
    "uf": "SP",
-   "local": "Distrito Anhembi (a confirmar)",
+   "local": "São Paulo Expo",
    "preco": "Consulte no site oficial",
    "gratuito": false,
    "link": "https://www.hospitalar.com/",
@@ -844,8 +964,34 @@
    "lon": -46.63,
    "biogl": "hospitais com metas de sustentabilidade: vapor, lavanderia, cozinha e água quente",
    "aderencia": "Média",
-   "dataAprox": "Data de 2027 ainda não confirmada no site oficial. Edições anteriores: maio, em São Paulo",
    "id": "hospitalar-2027"
+  },
+  {
+   "nome": "Energy Summit 2027 – diálogos da transição",
+   "tipo": "Congresso",
+   "segmentos": [
+    "Industrial",
+    "Comercial"
+   ],
+   "temas": [
+    "Gás e energia",
+    "Biocombustíveis",
+    "Descarbonização"
+   ],
+   "inicio": "2027-06-22",
+   "fim": "2027-06-24",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "local": "Rio de Janeiro (local a definir)",
+   "preco": "Ingressos Regular, Business e Infinity Pass (valores no site)",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento__3477317",
+   "organizador": "agência eixos",
+   "lat": -22.9,
+   "lon": -43.2,
+   "biogl": "formadores de opinião do setor de gás: palco para apresentar o BioGL",
+   "aderencia": "Alta",
+   "id": "energy-summit-2027-–-diálogos-da-transição"
   },
   {
    "nome": "Bahia Farm Show 2027",
@@ -872,6 +1018,31 @@
    "id": "bahia-farm-show-2027"
   },
   {
+   "nome": "Congresso Nacional de ESG 2027",
+   "tipo": "Congresso",
+   "segmentos": [
+    "Comercial",
+    "Industrial"
+   ],
+   "temas": [
+    "ESG e certificação"
+   ],
+   "inicio": "2027-06-14",
+   "fim": "2027-06-15",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Wyndham São Paulo Ibirapuera Convention Plaza",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://www.congressodeesg.org.br/",
+   "organizador": "Associação Brasileira de ESG",
+   "lat": -23.55,
+   "lon": -46.63,
+   "biogl": "diretores de sustentabilidade de grandes empresas",
+   "aderencia": "Alta",
+   "id": "congresso-nacional-de-esg-2027"
+  },
+  {
    "nome": "Fispal Tecnologia 2027",
    "tipo": "Feira",
    "segmentos": [
@@ -881,11 +1052,11 @@
     "Descarbonização",
     "ESG e certificação"
    ],
-   "inicio": "2027-06-01",
-   "fim": "2027-06-30",
+   "inicio": "2027-06-22",
+   "fim": "2027-06-25",
    "cidade": "São Paulo",
    "uf": "SP",
-   "local": "São Paulo Expo (a confirmar)",
+   "local": "São Paulo Expo",
    "preco": "Consulte no site oficial",
    "gratuito": false,
    "link": "https://www.fispaltecnologia.com.br/",
@@ -894,36 +1065,7 @@
    "lon": -46.63,
    "biogl": "indústria de alimentos e bebidas: caldeiras, fornos e pasteurização com selo de baixo carbono",
    "aderencia": "Alta",
-   "dataAprox": "Data de 2027 ainda não confirmada. Edições anteriores: junho, em São Paulo",
    "id": "fispal-tecnologia-2027"
-  },
-  {
-   "nome": "Energy Summit 2027 – diálogos da transição",
-   "tipo": "Congresso",
-   "segmentos": [
-    "Industrial",
-    "Comercial"
-   ],
-   "temas": [
-    "Gás e energia",
-    "Biocombustíveis",
-    "Descarbonização"
-   ],
-   "inicio": "2027-06-01",
-   "fim": "2027-06-30",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "local": "Rio de Janeiro",
-   "preco": "Consulte no site oficial",
-   "gratuito": false,
-   "link": "https://eixos.com.br/",
-   "organizador": "agência eixos",
-   "lat": -22.9,
-   "lon": -43.2,
-   "biogl": "formadores de opinião do setor de gás: palco para apresentar o BioGL",
-   "aderencia": "Alta",
-   "dataAprox": "Data de 2027 ainda não divulgada. Edição de 2026: 23 e 24 de junho, no Rio",
-   "id": "energy-summit-2027-–-diálogos-da-transição"
   },
   {
    "nome": "32ª Hortitec",
@@ -948,32 +1090,6 @@
    "biogl": "aquecimento de estufas de flores e hortaliças para exportação",
    "aderencia": "Média",
    "id": "32ª-hortitec"
-  },
-  {
-   "nome": "Fenasucro & Agrocana 2027",
-   "tipo": "Feira",
-   "segmentos": [
-    "Agronegócio",
-    "Industrial"
-   ],
-   "temas": [
-    "Biocombustíveis",
-    "Descarbonização"
-   ],
-   "inicio": "2027-08-10",
-   "fim": "2027-08-13",
-   "cidade": "Sertãozinho",
-   "uf": "SP",
-   "local": "Centro de Eventos Zanini",
-   "preco": "Consulte no site oficial",
-   "gratuito": false,
-   "link": "https://www.fenasucro.com.br/",
-   "organizador": "RX",
-   "lat": -21.14,
-   "lon": -47.99,
-   "biogl": "cadeia da bioenergia: usinas e indústrias que entendem certificação e combustível renovável",
-   "aderencia": "Alta",
-   "id": "fenasucro-&-agrocana-2027"
   },
   {
    "nome": "São Paulo Climate Week 2027",
@@ -1032,6 +1148,32 @@
    "id": "14º-fórum-do-biogás"
   },
   {
+   "nome": "Fenasucro & Agrocana 2027",
+   "tipo": "Feira",
+   "segmentos": [
+    "Agronegócio",
+    "Industrial"
+   ],
+   "temas": [
+    "Biocombustíveis",
+    "Descarbonização"
+   ],
+   "inicio": "2027-08-10",
+   "fim": "2027-08-13",
+   "cidade": "Sertãozinho",
+   "uf": "SP",
+   "local": "Centro de Eventos Zanini",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://www.fenasucro.com.br/",
+   "organizador": "RX",
+   "lat": -21.14,
+   "lon": -47.99,
+   "biogl": "cadeia da bioenergia: usinas e indústrias que entendem certificação e combustível renovável",
+   "aderencia": "Alta",
+   "id": "fenasucro-&-agrocana-2027"
+  },
+  {
    "nome": "The smarter E South America 2027 (Intersolar)",
    "tipo": "Feira",
    "segmentos": [
@@ -1081,31 +1223,6 @@
    "id": "50ª-expointer"
   },
   {
-   "nome": "FIEE 2027",
-   "tipo": "Feira",
-   "segmentos": [
-    "Industrial"
-   ],
-   "temas": [
-    "Energia renovável",
-    "Descarbonização"
-   ],
-   "inicio": "2027-09-14",
-   "fim": "2027-09-17",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "local": "São Paulo Expo",
-   "preco": "Consulte no site oficial",
-   "gratuito": false,
-   "link": "https://www.fiee.com.br/",
-   "organizador": "RX Brasil",
-   "lat": -23.55,
-   "lon": -46.63,
-   "biogl": "engenheiros de utilidades e manutenção industrial avaliando a matriz energética",
-   "aderencia": "Média",
-   "id": "fiee-2027"
-  },
-  {
    "nome": "Equipotel 2027",
    "tipo": "Feira",
    "segmentos": [
@@ -1115,20 +1232,19 @@
     "ESG e certificação",
     "Construção sustentável"
    ],
-   "inicio": "2027-09-01",
-   "fim": "2027-09-30",
+   "inicio": "2027-09-14",
+   "fim": "2027-09-17",
    "cidade": "São Paulo",
    "uf": "SP",
-   "local": "São Paulo (a confirmar)",
+   "local": "Expo Center Norte",
    "preco": "Consulte no site oficial",
    "gratuito": false,
    "link": "https://www.equipotel.com.br/",
-   "organizador": "Equipotel",
+   "organizador": "RX Brasil",
    "lat": -23.55,
    "lon": -46.63,
    "biogl": "hotéis e resorts com selos verdes: água quente, piscinas e cozinhas",
    "aderencia": "Alta",
-   "dataAprox": "Data de 2027 ainda não divulgada. Edições anteriores: setembro, em São Paulo",
    "id": "equipotel-2027"
   },
   {
@@ -1158,6 +1274,31 @@
    "id": "conferência-novacana-2027"
   },
   {
+   "nome": "FIEE 2027",
+   "tipo": "Feira",
+   "segmentos": [
+    "Industrial"
+   ],
+   "temas": [
+    "Energia renovável",
+    "Descarbonização"
+   ],
+   "inicio": "2027-09-14",
+   "fim": "2027-09-17",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "São Paulo Expo",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://www.fiee.com.br/",
+   "organizador": "RX Brasil",
+   "lat": -23.55,
+   "lon": -46.63,
+   "biogl": "engenheiros de utilidades e manutenção industrial avaliando a matriz energética",
+   "aderencia": "Média",
+   "id": "fiee-2027"
+  },
+  {
    "nome": "Fenasan 2027 + Eco Expo Brasil",
    "tipo": "Feira",
    "segmentos": [
@@ -1169,11 +1310,11 @@
     "Biogás e biometano",
     "ESG e certificação"
    ],
-   "inicio": "2027-10-01",
-   "fim": "2027-10-31",
+   "inicio": "2027-10-26",
+   "fim": "2027-10-28",
    "cidade": "São Paulo",
    "uf": "SP",
-   "local": "Expo Center Norte (a confirmar)",
+   "local": "Expo Center Norte",
    "preco": "Visitação à feira gratuita",
    "gratuito": true,
    "link": "https://fenasan.com.br/",
@@ -1182,7 +1323,6 @@
    "lon": -46.63,
    "biogl": "saneamento, resíduos e indústrias com inventário de emissões",
    "aderencia": "Média",
-   "dataAprox": "Data de 2027 ainda não divulgada. Edições anteriores: outubro, no Expo Center Norte",
    "id": "fenasan-2027-+-eco-expo-brasil"
   },
   {
@@ -1238,6 +1378,522 @@
    "aderencia": "Alta",
    "dataAprox": "Data de 2027 ainda não divulgada. Edições anteriores: novembro, em São Paulo",
    "id": "greenbuilding-brasil-2027"
+  },
+  {
+   "tipo": "Feira",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "aderencia": "Média",
+   "nome": "Energy Solutions Show 2027",
+   "segmentos": [
+    "Comercial",
+    "Industrial"
+   ],
+   "temas": [
+    "Energia renovável",
+    "Gás e energia"
+   ],
+   "inicio": "2027-04-14",
+   "fim": "2027-04-15",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Distrito Anhembi",
+   "link": "https://www.energysolutionsshow.com.br/pt/home.html",
+   "organizador": "Informa Markets",
+   "lat": -23.55,
+   "lon": -46.63,
+   "biogl": "gestores de energia comparando fontes para reduzir emissões",
+   "id": "energy-solutions-show-2027"
+  },
+  {
+   "tipo": "Encontro",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "aderencia": "Média",
+   "nome": "iBEM 2026 – International Brazil Energy Meeting",
+   "segmentos": [
+    "Industrial",
+    "Comercial"
+   ],
+   "temas": [
+    "Gás e energia",
+    "Biocombustíveis",
+    "Energia renovável"
+   ],
+   "inicio": "2026-03-24",
+   "fim": "2026-03-26",
+   "cidade": "Salvador",
+   "uf": "BA",
+   "local": "Centro de Convenções Salvador",
+   "link": "https://www.tbpetroleum.com.br/eventos/ibem-2026/",
+   "organizador": "Austral",
+   "lat": -12.97,
+   "lon": -38.5,
+   "biogl": "encontro multienergético do Nordeste: indústrias e distribuidoras avaliando gás renovável",
+   "id": "ibem-2026"
+  },
+  {
+   "tipo": "Encontro",
+   "preco": "Conferência Estratégica e Arena ESG gratuitas para credenciados; demais atividades, consulte",
+   "gratuito": false,
+   "aderencia": "Média",
+   "nome": "iBEM27 – International Brazil Energy Meeting",
+   "segmentos": [
+    "Industrial",
+    "Comercial"
+   ],
+   "temas": [
+    "Gás e energia",
+    "Biocombustíveis",
+    "Energia renovável"
+   ],
+   "inicio": "2027-02-24",
+   "fim": "2027-02-26",
+   "cidade": "Salvador",
+   "uf": "BA",
+   "local": "Centro de Convenções Salvador",
+   "link": "https://www.google.com/search?q=iBEM27+Salvador+2027",
+   "organizador": "Austral",
+   "lat": -12.97,
+   "lon": -38.5,
+   "biogl": "encontro multienergético do Nordeste: indústrias e distribuidoras avaliando gás renovável",
+   "id": "ibem27"
+  },
+  {
+   "tipo": "Feira",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "aderencia": "Média",
+   "nome": "26ª Expodireto Cotrijal",
+   "segmentos": [
+    "Agronegócio"
+   ],
+   "temas": [
+    "Descarbonização"
+   ],
+   "inicio": "2026-03-09",
+   "fim": "2026-03-13",
+   "cidade": "Não-Me-Toque",
+   "uf": "RS",
+   "local": "Parque da Expodireto",
+   "link": "https://www.expodireto.cotrijal.com.br/",
+   "organizador": "Cotrijal",
+   "lat": -28.46,
+   "lon": -52.82,
+   "biogl": "secagem de grãos em cooperativas com metas de sustentabilidade",
+   "id": "26ª-expodireto-cotrijal"
+  },
+  {
+   "tipo": "Feira",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "aderencia": "Média",
+   "nome": "31ª Hortitec",
+   "segmentos": [
+    "Agronegócio"
+   ],
+   "temas": [
+    "Descarbonização"
+   ],
+   "inicio": "2026-06-17",
+   "fim": "2026-06-19",
+   "cidade": "Holambra",
+   "uf": "SP",
+   "local": "Holambra",
+   "link": "https://www.hortitec.com.br/",
+   "organizador": "RBB Eventos",
+   "lat": -22.63,
+   "lon": -47.06,
+   "biogl": "aquecimento de estufas de flores e hortaliças para exportação",
+   "id": "31ª-hortitec"
+  },
+  {
+   "tipo": "Feira",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "aderencia": "Média",
+   "nome": "Bahia Farm Show 2026",
+   "segmentos": [
+    "Agronegócio"
+   ],
+   "temas": [
+    "Descarbonização"
+   ],
+   "inicio": "2026-06-08",
+   "fim": "2026-06-13",
+   "cidade": "Luís Eduardo Magalhães",
+   "uf": "BA",
+   "local": "Complexo Bahia Farm Show",
+   "link": "https://bahiafarmshow.com.br/",
+   "organizador": "Aiba",
+   "lat": -12.09,
+   "lon": -45.79,
+   "biogl": "secagem de grãos em grandes fazendas exportadoras",
+   "id": "bahia-farm-show-2026"
+  },
+  {
+   "tipo": "Feira",
+   "preco": "Área comercial gratuita; congresso com inscrição prévia",
+   "gratuito": false,
+   "aderencia": "Média",
+   "nome": "ExpoRenováveis 2026",
+   "segmentos": [
+    "Comercial",
+    "Industrial"
+   ],
+   "temas": [
+    "Energia renovável",
+    "Descarbonização"
+   ],
+   "inicio": "2026-03-03",
+   "fim": "2026-03-05",
+   "cidade": "Recife",
+   "uf": "PE",
+   "local": "Cais do Sertão",
+   "link": "https://www.sympla.com.br/evento/exporenovaveis-2026/3289922",
+   "organizador": "Aperenováveis",
+   "lat": -8.05,
+   "lon": -34.88,
+   "biogl": "empresas do Nordeste em transição energética: descarbonizar também o calor",
+   "id": "exporenovaveis-2026"
+  },
+  {
+   "nome": "IFAT Brasil 2027",
+   "tipo": "Feira",
+   "segmentos": [
+    "Industrial",
+    "Comercial"
+   ],
+   "temas": [
+    "Resíduos e economia circular",
+    "Biogás e biometano",
+    "Descarbonização"
+   ],
+   "inicio": "2027-06-23",
+   "fim": "2027-06-25",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Expo Center Norte",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://ifat.de/en/brasil/",
+   "organizador": "Messe München",
+   "lat": -23.55,
+   "lon": -46.63,
+   "biogl": "gestores de resíduos e saneamento: BioGL feito de resíduos renováveis, com certificado ISCC PLUS, para quem usa gás no processo",
+   "aderencia": "Média",
+   "id": "ifat-brasil-2027"
+  },
+  {
+   "nome": "Fitec Ambiental 2026 – Feira Internacional de Tecnologia e Soluções Ambientais para a Indústria",
+   "tipo": "Feira",
+   "segmentos": [
+    "Industrial"
+   ],
+   "temas": [
+    "Resíduos e economia circular",
+    "ESG e certificação"
+   ],
+   "inicio": "2026-03-18",
+   "fim": "2026-03-19",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Centro de Convenções Frei Caneca",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://fitecambiental.com.br",
+   "organizador": "Fitec Ambiental",
+   "lat": -23.55,
+   "lon": -46.63,
+   "biogl": "gestores ambientais de indústrias que buscam reduzir emissões com combustível renovável certificado",
+   "aderencia": "Média",
+   "id": "fitec-ambiental-2026-–-feira-internacional-de-tecnologia-e-soluções-ambientais-para-a-indústria"
+  },
+  {
+   "nome": "Fenagra 2026 – Feira Internacional da Agroindústria Feed & Food",
+   "tipo": "Feira",
+   "segmentos": [
+    "Industrial",
+    "Agronegócio"
+   ],
+   "temas": [
+    "Biocombustíveis",
+    "Descarbonização"
+   ],
+   "inicio": "2026-05-12",
+   "fim": "2026-05-14",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Distrito Anhembi",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://fenagra.com.br",
+   "organizador": "Fenagra",
+   "lat": -23.55,
+   "lon": -46.63,
+   "biogl": "agroindústrias de ração e alimentos com caldeiras e secadores a gás que precisam de pegada menor",
+   "aderencia": "Média",
+   "id": "fenagra-2026-–-feira-internacional-da-agroindústria-feed-&-food"
+  },
+  {
+   "nome": "Argus Biofuels & Feedstocks Latin America Conference 2026",
+   "tipo": "Congresso",
+   "segmentos": [
+    "Industrial",
+    "Agronegócio"
+   ],
+   "temas": [
+    "Biocombustíveis",
+    "ESG e certificação"
+   ],
+   "inicio": "2026-06-15",
+   "fim": "2026-06-17",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "São Paulo (local no site oficial)",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://www.argusmedia.com/pt/events/conferences/latin-america-biofuels",
+   "organizador": "Argus Media",
+   "lat": -23.55,
+   "lon": -46.63,
+   "biogl": "mercado de biocombustíveis que já conhece ISCC e pode ver o BioGL como mais uma rota renovável",
+   "aderencia": "Alta",
+   "id": "argus-biofuels-&-feedstocks-latin-america-conference-2026"
+  },
+  {
+   "nome": "4º Agroenergia – Transição Energética Sustentável (edição SAF e Biobunker)",
+   "tipo": "Fórum",
+   "segmentos": [
+    "Agronegócio"
+   ],
+   "temas": [
+    "Biocombustíveis",
+    "Descarbonização"
+   ],
+   "inicio": "2026-07-08",
+   "fim": "2026-07-08",
+   "cidade": "Brasília",
+   "uf": "DF",
+   "local": "Auditório da CNA",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://cnabrasil.org.br/eventos/4o-agroenergia-transicao-energetica-sustentavel-edicao-saf-e-biobunker",
+   "organizador": "CNA",
+   "lat": -15.79,
+   "lon": -47.88,
+   "biogl": "produtores e cooperativas que discutem bioenergia e podem usar gás renovável na secagem e nos aviários",
+   "aderencia": "Média",
+   "id": "4º-agroenergia-–-transição-energética-sustentável-(edição-saf-e-biobunker)"
+  },
+  {
+   "nome": "Megacana Tecno Show 2026",
+   "tipo": "Feira",
+   "segmentos": [
+    "Agronegócio",
+    "Industrial"
+   ],
+   "temas": [
+    "Biocombustíveis",
+    "Energia renovável"
+   ],
+   "inicio": "2026-08-05",
+   "fim": "2026-08-06",
+   "cidade": "Campo Florido",
+   "uf": "MG",
+   "local": "Campo Florido (MG)",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://www.google.com/search?q=Megacana+Tecno+Show+2026",
+   "organizador": "Canacampo, Siamig Bioenergia e Agência Solis",
+   "lat": -19.76,
+   "lon": -48.57,
+   "biogl": "usinas e produtores de cana que já vivem a lógica do combustível renovável certificado",
+   "aderencia": "Média",
+   "id": "megacana-tecno-show-2026"
+  },
+  {
+   "nome": "ETRI 2026 – Energy Transition Research and Innovation Conference",
+   "tipo": "Congresso",
+   "segmentos": [
+    "Industrial"
+   ],
+   "temas": [
+    "Descarbonização",
+    "Energia renovável",
+    "Gás e energia"
+   ],
+   "inicio": "2026-11-04",
+   "fim": "2026-11-06",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Universidade de São Paulo (USP)",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://www.institutodeengenharia.org.br/site/events/energy-transition-research-and-innovation-conference-etri-2026/",
+   "organizador": "USP (divulgação: Instituto de Engenharia)",
+   "lat": -23.55,
+   "lon": -46.63,
+   "biogl": "pesquisadores e empresas de transição energética: BioGL como rota pronta para descarbonizar o calor",
+   "aderencia": "Média",
+   "id": "etri-2026-–-energy-transition-research-and-innovation-conference"
+  },
+  {
+   "nome": "7º Circuito Biogás nos Estados – Pernambuco",
+   "tipo": "Encontro",
+   "segmentos": [
+    "Industrial",
+    "Agronegócio"
+   ],
+   "temas": [
+    "Biogás e biometano",
+    "Resíduos e economia circular"
+   ],
+   "inicio": "2026-11-05",
+   "fim": "2026-11-05",
+   "cidade": "Recife",
+   "uf": "PE",
+   "local": "Recife (com apoio da POLI/UPE)",
+   "preco": "Consulte no Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/7-circuito-biogas-nos-estados-pernambuco/3616363",
+   "organizador": "ABiogás",
+   "lat": -8.05,
+   "lon": -34.88,
+   "biogl": "indústrias do Nordeste que querem gás renovável sem esperar uma planta de biometano na região",
+   "aderencia": "Alta",
+   "id": "7º-circuito-biogás-nos-estados-pernambuco-2026"
+  },
+  {
+   "nome": "XV Congresso Brasileiro de Planejamento Energético (CBPE)",
+   "tipo": "Congresso",
+   "segmentos": [
+    "Industrial"
+   ],
+   "temas": [
+    "Energia renovável",
+    "Gás e energia",
+    "Descarbonização"
+   ],
+   "inicio": "2026-11-04",
+   "fim": "2026-11-06",
+   "cidade": "João Pessoa",
+   "uf": "PB",
+   "local": "João Pessoa",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://www.xvcbpe.com.br/",
+   "organizador": "Sociedade Brasileira de Planejamento Energético (SBPE)",
+   "lat": -7.12,
+   "lon": -34.86,
+   "biogl": "planejadores de energia que discutem a matriz térmica: BioGL como rota renovável para o calor",
+   "aderencia": "Média",
+   "id": "xv-cbpe-2026"
+  },
+  {
+   "nome": "Expo Brasil Sustentável 2027",
+   "tipo": "Feira",
+   "segmentos": [
+    "Industrial",
+    "Comercial"
+   ],
+   "temas": [
+    "ESG e certificação",
+    "Descarbonização",
+    "Resíduos e economia circular"
+   ],
+   "inicio": "2027-08-24",
+   "fim": "2027-08-26",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "São Paulo Expo, Pavilhões 3 e 4",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://expobrasilsustentavel.com.br/",
+   "organizador": "Revista Proteção",
+   "lat": -23.55,
+   "lon": -46.63,
+   "biogl": "gestores de meio ambiente e ESG que precisam comprovar redução de escopo 1 com certificado",
+   "aderencia": "Alta",
+   "id": "expo-brasil-sustentável-2027"
+  },
+  {
+   "nome": "Argus Biofuels & Feedstocks Latin America Conference 2027",
+   "tipo": "Congresso",
+   "segmentos": [
+    "Industrial",
+    "Agronegócio"
+   ],
+   "temas": [
+    "Biocombustíveis",
+    "ESG e certificação"
+   ],
+   "inicio": "2027-05-05",
+   "fim": "2027-05-06",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "local": "Rio de Janeiro (local a confirmar)",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://www.argusmedia.com/en/events/conferences/latin-america-biofuels",
+   "organizador": "Argus Media",
+   "lat": -22.9,
+   "lon": -43.2,
+   "biogl": "mercado de biocombustíveis que já conhece ISCC e pode ver o BioGL como mais uma rota renovável",
+   "aderencia": "Alta",
+   "id": "argus-biofuels-&-feedstocks-latin-america-conference-2027"
+  },
+  {
+   "nome": "Carbon Free Summit 2026",
+   "tipo": "Summit",
+   "segmentos": [
+    "Comercial",
+    "Industrial"
+   ],
+   "temas": [
+    "Descarbonização",
+    "ESG e certificação"
+   ],
+   "inicio": "2026-07-30",
+   "fim": "2026-07-30",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Cubo Itaú (Vila Olímpia)",
+   "preco": "Ingressos pelo Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/carbon-free-summit-2026/3388047",
+   "organizador": "Carbon Free Summit",
+   "lat": -23.55,
+   "lon": -46.63,
+   "biogl": "líderes de descarbonização corporativa que buscam reduzir escopo 1 sem trocar equipamento",
+   "aderencia": "Média",
+   "id": "carbon-free-summit-2026"
+  },
+  {
+   "nome": "6º Circuito Biogás nos Estados – Bahia",
+   "tipo": "Encontro",
+   "segmentos": [
+    "Industrial",
+    "Agronegócio"
+   ],
+   "temas": [
+    "Biogás e biometano",
+    "Resíduos e economia circular"
+   ],
+   "inicio": "2026-07-27",
+   "fim": "2026-07-27",
+   "cidade": "Salvador",
+   "uf": "BA",
+   "local": "Sede da FIEB (Federação das Indústrias do Estado da Bahia)",
+   "preco": "Gratuito, com inscrição no Sympla",
+   "gratuito": true,
+   "link": "https://www.sympla.com.br/evento/6-edicao-do-circuito-biogas-nos-estados-bahia/3468121",
+   "organizador": "ABiogás, com Bahiagás e Governo da Bahia",
+   "lat": -12.97,
+   "lon": -38.5,
+   "biogl": "indústrias baianas que querem gás renovável certificado enquanto o hub de biometano do Nordeste não sai do papel",
+   "aderencia": "Alta",
+   "id": "6º-circuito-biogás-nos-estados-bahia-2026"
   }
  ]
 }
