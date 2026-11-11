@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-09T13:49:36-03:00",
-  "turno": "tarde",
+  "atualizadoEm": "2026-11-11T07:49:00-03:00",
+  "turno": "manhã",
   "agenda": "Atualização automática às 7h49 e às 13h49 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa especializada. Onde o site oficial não foi confirmado, o botão abre uma busca. Eventos com data a confirmar seguem o padrão das edições anteriores. Confirme sempre antes de se programar."
  },
@@ -878,20 +878,19 @@
     "Resíduos e economia circular",
     "Descarbonização"
    ],
-   "inicio": "2027-05-01",
-   "fim": "2027-05-31",
+   "inicio": "2027-05-18",
+   "fim": "2027-05-20",
    "cidade": "Bento Gonçalves",
    "uf": "RS",
-   "local": "Parque de Eventos de Bento Gonçalves (a confirmar)",
+   "local": "Parque de Eventos de Bento Gonçalves",
    "preco": "Consulte no site oficial",
    "gratuito": false,
-   "link": "https://www.google.com/search?q=Fiema+Brasil+2027+Bento+Gon%C3%A7alves",
+   "link": "https://www.fiema.com.br/",
    "organizador": "Fiema",
    "lat": -29.17,
    "lon": -51.52,
    "biogl": "indústrias da Serra Gaúcha com metas ambientais e de exportação",
    "aderencia": "Alta",
-   "dataAprox": "Data de 2027 ainda não divulgada. A feira de meio ambiente é bienal, em maio, em Bento Gonçalves",
    "id": "fiema-brasil-2027"
   },
   {
@@ -1894,6 +1893,84 @@
    "biogl": "indústrias baianas que querem gás renovável certificado enquanto o hub de biometano do Nordeste não sai do papel",
    "aderencia": "Alta",
    "id": "6º-circuito-biogás-nos-estados-bahia-2026"
+  },
+  {
+   "nome": "CarbonLess Summit 2026",
+   "tipo": "Summit",
+   "segmentos": [
+    "Industrial"
+   ],
+   "temas": [
+    "Descarbonização",
+    "Biocombustíveis"
+   ],
+   "inicio": "2026-04-13",
+   "fim": "2026-04-14",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Centro Brasileiro Britânico (Pinheiros)",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://carbonless.org.br/",
+   "organizador": "CarbonLess Summit",
+   "lat": -23.55,
+   "lon": -46.63,
+   "biogl": "indústrias de etanol, aço, cimento e química que buscam reduzir emissões também no calor de processo",
+   "aderencia": "Média",
+   "id": "carbonless-summit-2026"
+  },
+  {
+   "nome": "ENOVA 2027 – Feira de Tecnologia, Mobilidade Sustentável e Eficiência Energética",
+   "tipo": "Feira",
+   "segmentos": [
+    "Industrial"
+   ],
+   "temas": [
+    "Energia renovável",
+    "Biogás e biometano",
+    "Descarbonização"
+   ],
+   "inicio": "2027-04-07",
+   "fim": "2027-04-09",
+   "cidade": "Caxias do Sul",
+   "uf": "RS",
+   "local": "Parque de Eventos da Festa da Uva",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://enovafeira.com.br/",
+   "organizador": "SIMECS, com Sebrae-RS",
+   "lat": -29.17,
+   "lon": -51.18,
+   "biogl": "indústria metalmecânica da Serra Gaúcha buscando eficiência energética e combustível de menor pegada",
+   "aderencia": "Média",
+   "id": "enova-2027"
+  },
+  {
+   "nome": "World Climate Summit São Paulo 2026",
+   "tipo": "Summit",
+   "segmentos": [
+    "Comercial",
+    "Industrial"
+   ],
+   "temas": [
+    "Descarbonização",
+    "Energia renovável",
+    "Resíduos e economia circular"
+   ],
+   "inicio": "2026-08-06",
+   "fim": "2026-08-06",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Edifício Pietro Maria Bardi (Anexo MASP)",
+   "preco": "Inscrição pela plataforma da WCF",
+   "gratuito": false,
+   "link": "https://events.worldclimatefoundation.org/",
+   "organizador": "World Climate Foundation",
+   "lat": -23.55,
+   "lon": -46.63,
+   "biogl": "grandes empresas e investidores em transição energética que precisam descarbonizar o calor de processo",
+   "aderencia": "Média",
+   "id": "world-climate-summit-sao-paulo-2026"
   }
  ]
 }
