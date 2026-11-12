@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-12T07:55:00-03:00",
-  "turno": "manhã",
+  "atualizadoEm": "2026-11-12T13:58:00-03:00",
+  "turno": "tarde",
   "agenda": "Atualização automática às 7h49 e às 13h49 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa especializada. Onde o site oficial não foi confirmado, o botão abre uma busca. Eventos com data a confirmar seguem o padrão das edições anteriores. Confirme sempre antes de se programar."
  },
@@ -1971,6 +1971,32 @@
    "biogl": "grandes empresas e investidores em transição energética que precisam descarbonizar o calor de processo",
    "aderencia": "Média",
    "id": "world-climate-summit-sao-paulo-2026"
+  },
+  {
+   "nome": "Brasil ESG Summit 2027",
+   "tipo": "Summit",
+   "segmentos": [
+    "Comercial",
+    "Industrial"
+   ],
+   "temas": [
+    "ESG e certificação",
+    "Descarbonização"
+   ],
+   "inicio": "2027-10-21",
+   "fim": "2027-10-21",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Grand Mercure SP Itaim Bibi",
+   "preco": "Consulte o site oficial",
+   "gratuito": false,
+   "link": "https://brasilesgsummit.com/",
+   "organizador": "Brasil ESG Summit",
+   "lat": -23.55,
+   "lon": -46.63,
+   "biogl": "líderes de ESG que precisam de combustível com certificado ISCC PLUS para reportar redução de emissões",
+   "aderencia": "Alta",
+   "id": "brasil-esg-summit-2027"
   }
  ]
 }
