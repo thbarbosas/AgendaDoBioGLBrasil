@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-12T13:58:00-03:00",
-  "turno": "tarde",
+  "atualizadoEm": "2026-11-13T07:55:44-03:00",
+  "turno": "manhã",
   "agenda": "Atualização automática às 7h49 e às 13h49 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa especializada. Onde o site oficial não foi confirmado, o botão abre uma busca. Eventos com data a confirmar seguem o padrão das edições anteriores. Confirme sempre antes de se programar."
  },
@@ -1997,6 +1997,32 @@
    "biogl": "líderes de ESG que precisam de combustível com certificado ISCC PLUS para reportar redução de emissões",
    "aderencia": "Alta",
    "id": "brasil-esg-summit-2027"
+  },
+  {
+   "nome": "Fenagra 2027 – Feira Internacional da Agroindústria Feed & Food",
+   "tipo": "Feira",
+   "segmentos": [
+    "Industrial",
+    "Agronegócio"
+   ],
+   "temas": [
+    "Biocombustíveis",
+    "Descarbonização"
+   ],
+   "inicio": "2027-05-11",
+   "fim": "2027-05-13",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Distrito Anhembi",
+   "preco": "Gratuito, com inscrição prévia (público profissional)",
+   "gratuito": true,
+   "link": "https://fenagra.com.br",
+   "organizador": "Fenagra",
+   "lat": -23.55,
+   "lon": -46.63,
+   "biogl": "agroindústrias de ração e alimentos com caldeiras e secadores a gás que precisam de pegada menor",
+   "aderencia": "Média",
+   "id": "fenagra-2027-–-feira-internacional-da-agroindústria-feed-&-food"
   }
  ]
 }
