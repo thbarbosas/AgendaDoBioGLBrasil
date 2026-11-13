@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-13T07:55:44-03:00",
-  "turno": "manhã",
+  "atualizadoEm": "2026-11-13T13:54:03-03:00",
+  "turno": "tarde",
   "agenda": "Atualização automática às 7h49 e às 13h49 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa especializada. Onde o site oficial não foi confirmado, o botão abre uma busca. Eventos com data a confirmar seguem o padrão das edições anteriores. Confirme sempre antes de se programar."
  },
@@ -2023,6 +2023,33 @@
    "biogl": "agroindústrias de ração e alimentos com caldeiras e secadores a gás que precisam de pegada menor",
    "aderencia": "Média",
    "id": "fenagra-2027-–-feira-internacional-da-agroindústria-feed-&-food"
+  },
+  {
+   "nome": "VI FBGA 2027 – Fórum Brasil de Gestão Ambiental (A Cúpula 2027)",
+   "tipo": "Fórum",
+   "segmentos": [
+    "Comercial",
+    "Industrial"
+   ],
+   "temas": [
+    "Descarbonização",
+    "ESG e certificação",
+    "Resíduos e economia circular"
+   ],
+   "inicio": "2027-06-23",
+   "fim": "2027-06-25",
+   "cidade": "Campinas",
+   "uf": "SP",
+   "local": "Campinas (local a confirmar)",
+   "preco": "Gratuito, com inscrição pelo Sympla",
+   "gratuito": true,
+   "link": "https://fbga.com.br/a-cupula-2027/",
+   "organizador": "Fórum Brasil de Gestão Ambiental (FBGA)",
+   "lat": -22.91,
+   "lon": -47.06,
+   "biogl": "gestores ambientais e de ESG que precisam cortar emissões de escopo 1 com combustível certificado",
+   "aderencia": "Média",
+   "id": "vi-fbga-2027-–-fórum-brasil-de-gestão-ambiental"
   }
  ]
 }
