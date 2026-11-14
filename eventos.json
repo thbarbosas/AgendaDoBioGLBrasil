@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-14T07:49:44-03:00",
-  "turno": "manhã",
+  "atualizadoEm": "2026-11-14T13:50:50-03:00",
+  "turno": "tarde",
   "agenda": "Atualização automática às 7h49 e às 13h49 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa especializada. Onde o site oficial não foi confirmado, o botão abre uma busca. Eventos com data a confirmar seguem o padrão das edições anteriores. Confirme sempre antes de se programar."
  },
@@ -2050,6 +2050,30 @@
    "biogl": "gestores ambientais e de ESG que precisam cortar emissões de escopo 1 com combustível certificado",
    "aderencia": "Média",
    "id": "vi-fbga-2027-–-fórum-brasil-de-gestão-ambiental"
+  },
+  {
+   "nome": "HFN 2026 – Hotel & Food Nordeste",
+   "tipo": "Feira",
+   "segmentos": [
+    "Comercial"
+   ],
+   "temas": [
+    "Gás e energia"
+   ],
+   "inicio": "2026-11-04",
+   "fim": "2026-11-06",
+   "cidade": "Olinda",
+   "uf": "PE",
+   "local": "Pernambuco Centro de Convenções",
+   "preco": "Gratuito para empresas (credenciamento); pessoa física R$ 50",
+   "gratuito": true,
+   "link": "https://www.hfne.com.br",
+   "organizador": "Insight Feiras & Negócios, com ABIH-PE e Abrasel-PE",
+   "lat": -8.01,
+   "lon": -34.85,
+   "biogl": "Hotéis e restaurantes do Nordeste usam GLP na cozinha e no aquecimento de água; o BioGL reduz emissões sem trocar equipamento.",
+   "aderencia": "Média",
+   "id": "hfn-2026-hotel-food-nordeste"
   }
  ]
 }
