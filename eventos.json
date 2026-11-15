@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-15T07:50:20-03:00",
-  "turno": "manhã",
+  "atualizadoEm": "2026-11-15T13:50:11-03:00",
+  "turno": "tarde",
   "agenda": "Atualização automática às 7h49 e às 13h49 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa especializada. Onde o site oficial não foi confirmado, o botão abre uma busca. Eventos com data a confirmar seguem o padrão das edições anteriores. Confirme sempre antes de se programar."
  },
@@ -2074,6 +2074,32 @@
    "biogl": "Hotéis e restaurantes do Nordeste usam GLP na cozinha e no aquecimento de água; o BioGL reduz emissões sem trocar equipamento.",
    "aderencia": "Média",
    "id": "hfn-2026-hotel-food-nordeste"
+  },
+  {
+   "nome": "Expocanas 2027",
+   "tipo": "Feira",
+   "segmentos": [
+    "Agronegócio",
+    "Industrial"
+   ],
+   "temas": [
+    "Biocombustíveis",
+    "Energia renovável"
+   ],
+   "inicio": "2027-03-23",
+   "fim": "2027-03-25",
+   "cidade": "Nova Alvorada do Sul",
+   "uf": "MS",
+   "local": "Parque de Exposição Multissetorial (BR-163)",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://expocanas.com",
+   "organizador": "Sulcanas",
+   "lat": -21.47,
+   "lon": -54.38,
+   "biogl": "fornecedores de cana e usinas de bioenergia do MS que já entendem combustível renovável certificado",
+   "aderencia": "Média",
+   "id": "expocanas-2027"
   }
  ]
 }
