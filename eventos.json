@@ -1,6 +1,6 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-15T13:50:11-03:00",
+  "atualizadoEm": "2026-11-16T13:55:41-03:00",
   "turno": "tarde",
   "agenda": "Atualização automática às 7h49 e às 13h49 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa especializada. Onde o site oficial não foi confirmado, o botão abre uma busca. Eventos com data a confirmar seguem o padrão das edições anteriores. Confirme sempre antes de se programar."
@@ -2100,6 +2100,59 @@
    "biogl": "fornecedores de cana e usinas de bioenergia do MS que já entendem combustível renovável certificado",
    "aderencia": "Média",
    "id": "expocanas-2027"
+  },
+  {
+   "nome": "BioTECH Fair 2026 – Feira Internacional de Tecnologia em Bioenergia e Biocombustíveis",
+   "tipo": "Feira",
+   "segmentos": [
+    "Industrial",
+    "Agronegócio"
+   ],
+   "temas": [
+    "Biocombustíveis",
+    "Biogás e biometano",
+    "Energia renovável"
+   ],
+   "inicio": "2026-03-18",
+   "fim": "2026-03-20",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "local": "Centro de Eventos da FIERGS",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://biotechfair.com.br/",
+   "organizador": "Porthus Eventos",
+   "lat": -30.03,
+   "lon": -51.23,
+   "biogl": "público de bioenergia que já entende certificação e quer combustível renovável sem produzir biometano",
+   "aderencia": "Alta",
+   "id": "biotech-fair-2026"
+  },
+  {
+   "nome": "ESG Summit Brazil 2026 – São Paulo",
+   "tipo": "Summit",
+   "segmentos": [
+    "Comercial",
+    "Industrial"
+   ],
+   "temas": [
+    "ESG e certificação",
+    "Descarbonização"
+   ],
+   "inicio": "2026-11-24",
+   "fim": "2026-11-24",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Casa Bontempo",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://esgsummitbrazil.com/",
+   "organizador": "ESG Summit Brazil",
+   "lat": -23.55,
+   "lon": -46.63,
+   "biogl": "lideranças com metas ESG que precisam cortar emissões de escopo 1 com certificado ISCC PLUS",
+   "aderencia": "Média",
+   "id": "esg-summit-brazil-2026-sao-paulo"
   }
  ]
 }
