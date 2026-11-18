@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-18T07:49:57-03:00",
-  "turno": "manhã",
+  "atualizadoEm": "2026-11-18T13:51:09-03:00",
+  "turno": "tarde",
   "agenda": "Atualização automática às 7h49 e às 13h49 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa especializada. Onde o site oficial não foi confirmado, o botão abre uma busca. Eventos com data a confirmar seguem o padrão das edições anteriores. Confirme sempre antes de se programar."
  },
@@ -2180,6 +2180,33 @@
    "biogl": "Usinas de bioenergia e agroindústrias do MS que já falam de biometano podem conhecer o BioGL certificado ISCC PLUS para áreas sem gasoduto.",
    "aderencia": "Alta",
    "id": "bio-energy-summit-2026"
+  },
+  {
+   "id": "gas-week-2026",
+   "nome": "Gas Week 2026",
+   "tipo": "Encontro",
+   "segmentos": [
+    "Industrial",
+    "Comercial"
+   ],
+   "temas": [
+    "Gás e energia",
+    "Descarbonização",
+    "Biogás e biometano"
+   ],
+   "inicio": "2026-04-28",
+   "fim": "2026-04-29",
+   "cidade": "Brasília",
+   "uf": "DF",
+   "local": "Centro de Convenções Brasil 21 (Asa Sul)",
+   "preco": "Pago (ingressos pelo Sympla: passaporte 2 dias ou passe de 1 dia)",
+   "gratuito": false,
+   "link": "https://eixos.com.br/gas-week/",
+   "organizador": "Agência eixos",
+   "lat": -15.7939,
+   "lon": -47.8828,
+   "biogl": "Executivos, distribuidoras e indústria do gás debatem o mercado: espaço para posicionar o BioGL como molécula renovável certificada (ISCC PLUS) na mesma logística do GLP.",
+   "aderencia": "Alta"
   }
  ]
 }
