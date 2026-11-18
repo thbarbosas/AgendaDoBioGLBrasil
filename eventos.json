@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-17T13:50:13-03:00",
-  "turno": "tarde",
+  "atualizadoEm": "2026-11-18T07:49:57-03:00",
+  "turno": "manhã",
   "agenda": "Atualização automática às 7h49 e às 13h49 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa especializada. Onde o site oficial não foi confirmado, o botão abre uma busca. Eventos com data a confirmar seguem o padrão das edições anteriores. Confirme sempre antes de se programar."
  },
@@ -2153,6 +2153,33 @@
    "biogl": "lideranças com metas ESG que precisam cortar emissões de escopo 1 com certificado ISCC PLUS",
    "aderencia": "Média",
    "id": "esg-summit-brazil-2026-sao-paulo"
+  },
+  {
+   "nome": "Bio Energy Summit 2026",
+   "tipo": "Summit",
+   "segmentos": [
+    "Industrial",
+    "Agronegócio"
+   ],
+   "temas": [
+    "Biocombustíveis",
+    "Biogás e biometano",
+    "Descarbonização"
+   ],
+   "inicio": "2026-09-15",
+   "fim": "2026-09-16",
+   "cidade": "Campo Grande",
+   "uf": "MS",
+   "local": "Campo Grande (local a confirmar com o organizador)",
+   "preco": "Não divulgado",
+   "gratuito": false,
+   "link": "https://www.google.com/search?q=Bio%20Energy%20Summit%202026%20Campo%20Grande%20FRG",
+   "organizador": "Grupo FRG Mídias & Eventos (apoio Biosul e Crea-MS)",
+   "lat": -20.4697,
+   "lon": -54.6201,
+   "biogl": "Usinas de bioenergia e agroindústrias do MS que já falam de biometano podem conhecer o BioGL certificado ISCC PLUS para áreas sem gasoduto.",
+   "aderencia": "Alta",
+   "id": "bio-energy-summit-2026"
   }
  ]
 }
