@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-18T13:51:09-03:00",
-  "turno": "tarde",
+  "atualizadoEm": "2026-11-19T07:55:00-03:00",
+  "turno": "manhã",
   "agenda": "Atualização automática às 7h49 e às 13h49 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa especializada. Onde o site oficial não foi confirmado, o botão abre uma busca. Eventos com data a confirmar seguem o padrão das edições anteriores. Confirme sempre antes de se programar."
  },
@@ -80,6 +80,33 @@
    "lon": -49.25,
    "biogl": "indústrias goianas que buscam gás renovável sem depender de rede de biometano",
    "aderencia": "Alta"
+  },
+  {
+   "id": "gas-week-outlook-2026",
+   "nome": "Gas Week Outlook 2026",
+   "tipo": "Encontro",
+   "segmentos": [
+    "Industrial",
+    "Comercial"
+   ],
+   "temas": [
+    "Gás e energia",
+    "Biogás e biometano",
+    "Descarbonização"
+   ],
+   "inicio": "2026-02-24",
+   "fim": "2026-02-24",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "São Paulo (local divulgado aos convidados)",
+   "preco": "Exclusivo para assinantes do eixos PRO e convidados",
+   "gratuito": false,
+   "link": "https://eixos.com.br/eventos/gas-week-outlook-2026-reune-lideres-do-setor-de-gas-natural-em-sao-paulo/",
+   "organizador": "Agência eixos",
+   "lat": -23.5505,
+   "lon": -46.6333,
+   "biogl": "Líderes do mercado de gás discutindo oferta e preços: espaço para apresentar o BioGL como opção renovável e certificada (ISCC PLUS) para clientes fora da rede.",
+   "aderencia": "Média"
   },
   {
    "nome": "Feicon 2026",
