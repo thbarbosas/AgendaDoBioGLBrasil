@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-20T13:50:00-03:00",
-  "turno": "tarde",
+  "atualizadoEm": "2026-11-21T07:50:00-03:00",
+  "turno": "manhã",
   "agenda": "Atualização automática às 7h49 e às 13h49 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa especializada. Onde o site oficial não foi confirmado, o botão abre uma busca. Eventos com data a confirmar seguem o padrão das edições anteriores. Confirme sempre antes de se programar."
  },
@@ -2229,6 +2229,60 @@
    "preco": "Pago (ingressos pelo Sympla: passaporte 2 dias ou passe de 1 dia)",
    "gratuito": false,
    "link": "https://eixos.com.br/gas-week/",
+   "organizador": "Agência eixos",
+   "lat": -15.7939,
+   "lon": -47.8828,
+   "biogl": "Executivos, distribuidoras e indústria do gás debatem o mercado: espaço para posicionar o BioGL como molécula renovável certificada (ISCC PLUS) na mesma logística do GLP.",
+   "aderencia": "Alta"
+  },
+  {
+   "id": "gas-&-energy-week-brazil-2026",
+   "nome": "Gas & Energy Week Brazil 2026",
+   "tipo": "Encontro",
+   "segmentos": [
+    "Industrial",
+    "Comercial"
+   ],
+   "temas": [
+    "Gás e energia",
+    "Descarbonização"
+   ],
+   "inicio": "2026-09-01",
+   "fim": "2026-09-03",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "local": "Hotel Prodigy Santos Dumont",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://blueoceaneventos.com.br/gasenergyweek/",
+   "organizador": "Blue Ocean Eventos",
+   "lat": -22.9,
+   "lon": -43.2,
+   "biogl": "Indústria e distribuidoras de gás discutem a transição: o BioGL entra como gás renovável certificado (ISCC PLUS) sem trocar equipamento.",
+   "aderencia": "Alta"
+  },
+  {
+   "id": "gas-week-2027",
+   "nome": "Gas Week 2027",
+   "tipo": "Encontro",
+   "segmentos": [
+    "Industrial",
+    "Comercial"
+   ],
+   "temas": [
+    "Gás e energia",
+    "Descarbonização",
+    "Biogás e biometano"
+   ],
+   "inicio": "2027-04-01",
+   "fim": "2027-04-30",
+   "dataAprox": "Data de 2027 ainda não divulgada. Edições anteriores: abril, em Brasília",
+   "cidade": "Brasília",
+   "uf": "DF",
+   "local": "A confirmar",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://eixos.com.br/gas-week-2027/",
    "organizador": "Agência eixos",
    "lat": -15.7939,
    "lon": -47.8828,
