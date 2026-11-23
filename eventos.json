@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-23T07:50:07-03:00",
-  "turno": "manhã",
+  "atualizadoEm": "2026-11-23T13:49:28-03:00",
+  "turno": "tarde",
   "agenda": "Atualização automática às 7h49 e às 13h49 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa especializada. Onde o site oficial não foi confirmado, o botão abre uma busca. Eventos com data a confirmar seguem o padrão das edições anteriores. Confirme sempre antes de se programar."
  },
@@ -2288,6 +2288,32 @@
    "lon": -47.8828,
    "biogl": "Executivos, distribuidoras e indústria do gás debatem o mercado: espaço para posicionar o BioGL como molécula renovável certificada (ISCC PLUS) na mesma logística do GLP.",
    "aderencia": "Alta"
+  },
+  {
+   "nome": "Fitec Ambiental 2027 – Feira Internacional de Tecnologia e Soluções Ambientais para a Indústria",
+   "tipo": "Feira",
+   "segmentos": [
+    "Industrial"
+   ],
+   "temas": [
+    "Resíduos e economia circular",
+    "ESG e certificação"
+   ],
+   "inicio": "2027-03-01",
+   "fim": "2027-03-31",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Centro de Convenções Frei Caneca",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://fitecambiental.com.br",
+   "organizador": "Fitec Ambiental",
+   "lat": -23.55,
+   "lon": -46.63,
+   "biogl": "gestores ambientais de indústrias que buscam reduzir emissões com combustível renovável certificado",
+   "aderencia": "Média",
+   "id": "fitec-ambiental-2027",
+   "dataAprox": "Data de 2027 ainda não divulgada. Edições anteriores: março, em São Paulo"
   }
  ]
 }
