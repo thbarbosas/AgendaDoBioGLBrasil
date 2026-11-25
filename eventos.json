@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-24T13:50:43-03:00",
-  "turno": "tarde",
+  "atualizadoEm": "2026-11-25T07:50:08-03:00",
+  "turno": "manhã",
   "agenda": "Atualização automática às 7h49 e às 13h49 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa especializada. Onde o site oficial não foi confirmado, o botão abre uma busca. Eventos com data a confirmar seguem o padrão das edições anteriores. Confirme sempre antes de se programar."
  },
@@ -2314,6 +2314,30 @@
    "aderencia": "Média",
    "id": "fitec-ambiental-2027",
    "dataAprox": "Data de 2027 ainda não divulgada. Edições anteriores: março, em São Paulo"
+  },
+  {
+   "nome": "Tecnoshow Comigo 2027",
+   "tipo": "Feira",
+   "segmentos": [
+    "Agronegócio"
+   ],
+   "temas": [
+    "Descarbonização"
+   ],
+   "inicio": "2027-04-05",
+   "fim": "2027-04-09",
+   "cidade": "Rio Verde",
+   "uf": "GO",
+   "local": "Centro Tecnológico Comigo",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://www.google.com/search?q=Tecnoshow+Comigo+2027",
+   "organizador": "Cooperativa Comigo",
+   "lat": -17.79,
+   "lon": -50.92,
+   "biogl": "secagem de grãos e agroindústria de cooperados do Cerrado com metas de sustentabilidade",
+   "aderencia": "Média",
+   "id": "tecnoshow-comigo-2027"
   }
  ]
 }
