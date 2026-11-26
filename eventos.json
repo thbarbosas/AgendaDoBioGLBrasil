@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-25T13:50:02-03:00",
-  "turno": "tarde",
+  "atualizadoEm": "2026-11-26T07:50:11-03:00",
+  "turno": "manhã",
   "agenda": "Atualização automática às 7h49 e às 13h49 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa especializada. Onde o site oficial não foi confirmado, o botão abre uma busca. Eventos com data a confirmar seguem o padrão das edições anteriores. Confirme sempre antes de se programar."
  },
@@ -2338,6 +2338,32 @@
    "biogl": "secagem de grãos e agroindústria de cooperados do Cerrado com metas de sustentabilidade",
    "aderencia": "Média",
    "id": "tecnoshow-comigo-2027"
+  },
+  {
+   "nome": "21º Seminário de Gás Natural (IBP) 2027",
+   "tipo": "Seminário",
+   "segmentos": [
+    "Industrial",
+    "Comercial"
+   ],
+   "temas": [
+    "Gás e energia",
+    "Descarbonização"
+   ],
+   "inicio": "2027-05-12",
+   "fim": "2027-05-13",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "local": "Hotel Fairmont Copacabana",
+   "preco": "Pago (inscrição pelo site do IBP)",
+   "gratuito": false,
+   "link": "https://portal.ibp.org.br/en/seminario-de-gas-natural",
+   "organizador": "IBP",
+   "lat": -22.9,
+   "lon": -43.2,
+   "biogl": "debate o papel do gás na descarbonização: espaço para apresentar o BioGL como versão renovável e certificada do gás liquefeito",
+   "aderencia": "Alta",
+   "id": "21º-seminário-de-gás-natural-ibp-2027"
   }
  ]
 }
